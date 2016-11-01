@@ -1,0 +1,10 @@
+node_modules/
+typings/
+.idea
+npm-debug.log
+npm-debug.log.*
+app/*.js
+app/**/*.js
+app/*.js.map
+app/**/*.js.map
+
